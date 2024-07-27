@@ -84,7 +84,7 @@ body, html {
     right: 0;
     font-family: 'Open Sans', sans-serif;
     text-align: right;
-    z-index: 4;
+    z-index: 2;
     background-color: #ffffff00; /* Optional: add background for better visibility */
     padding: 10px; /* Optional: add some padding */
 }
