@@ -101,6 +101,13 @@ body, html {
 }
 
 .emoji{vertical-align: middle;}
+@media (max-width: 800px) {
+    .footer-heart {
+        font-size: 9px;
+        padding-right: 8px;
+        padding-bottom: 0px;
+    }
+}
 
 .fogCanvas {
     position: absolute;
